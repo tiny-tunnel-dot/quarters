@@ -25,5 +25,6 @@ commish-next-steps=commish, RJ-Hauler-invites=RJ-Hauler), merged PRs via
 DATA constant + REPOS array + the static numbers in index.html.
 
 ## Workflow
+- Design tokens and rules live in DESIGN.md; change tokens there first.
 - Feature branches + PRs. Never push to `main`.
 - Merge via the GitHub PR web UI or terminal, never GitHub Desktop.
